@@ -5,6 +5,7 @@ public class leetcode11{
         System.out.println("Enter size ");
         int n=ob.nextInt();
         int arr[]=new int[n];
+        System.out.println("Enter elements");
         for(int i=0;i<n;i++){
             arr[i]=ob.nextInt();
         }
